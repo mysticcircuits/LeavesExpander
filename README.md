@@ -11,6 +11,8 @@ Bottom line is that if I notice people abusing the spirit of this open source in
 
 One last thing is that I do not offer any support or cover any damages incurred by using a module that was built using the information in this Github repository.  Unless you buy the module from me or one of my retailers the module is not my responsibility.  If you have a question about building the modules feel free to ask but sometimes I am slammed for time so please understand if I don't get back to you.
 
+Also the design files that I have uploaded are designed in diptrace, please understand that I have no intention of remaking the files in Eagle or any other PCB design program.  I don't like Eagle and Diptrace should let you open these files even with the free version.
+
 Anyways I hope this information is useful to you, if you have any questions contacting me throught the contact page on my website is the easiest way to get a hold of me.
 
 Eli
